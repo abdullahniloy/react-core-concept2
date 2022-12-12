@@ -32,7 +32,17 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.person {
+  color: blueviolet;
+  background-color: #61dafb;
+  border: 3px solid yellow;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
 }
